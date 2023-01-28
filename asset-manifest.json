@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kostiadubohrii/kostiadubohrii_react.github.io.git/react_mid-lvl/marvel-app/static/css/main.e5f31e3a.chunk.css",
+    "main.js": "/kostiadubohrii/kostiadubohrii_react.github.io.git/react_mid-lvl/marvel-app/static/js/main.9517119f.chunk.js",
+    "main.js.map": "/kostiadubohrii/kostiadubohrii_react.github.io.git/react_mid-lvl/marvel-app/static/js/main.9517119f.chunk.js.map",
+    "runtime-main.js": "/kostiadubohrii/kostiadubohrii_react.github.io.git/react_mid-lvl/marvel-app/static/js/runtime-main.d2daa3d5.js",
+    "runtime-main.js.map": "/kostiadubohrii/kostiadubohrii_react.github.io.git/react_mid-lvl/marvel-app/static/js/runtime-main.d2daa3d5.js.map",
+    "static/js/2.7c13adfa.chunk.js": "/kostiadubohrii/kostiadubohrii_react.github.io.git/react_mid-lvl/marvel-app/static/js/2.7c13adfa.chunk.js",
+    "static/js/2.7c13adfa.chunk.js.map": "/kostiadubohrii/kostiadubohrii_react.github.io.git/react_mid-lvl/marvel-app/static/js/2.7c13adfa.chunk.js.map",
+    "index.html": "/kostiadubohrii/kostiadubohrii_react.github.io.git/react_mid-lvl/marvel-app/index.html",
+    "static/css/main.e5f31e3a.chunk.css.map": "/kostiadubohrii/kostiadubohrii_react.github.io.git/react_mid-lvl/marvel-app/static/css/main.e5f31e3a.chunk.css.map",
+    "static/js/2.7c13adfa.chunk.js.LICENSE.txt": "/kostiadubohrii/kostiadubohrii_react.github.io.git/react_mid-lvl/marvel-app/static/js/2.7c13adfa.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/kostiadubohrii/kostiadubohrii_react.github.io.git/react_mid-lvl/marvel-app/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/kostiadubohrii/kostiadubohrii_react.github.io.git/react_mid-lvl/marvel-app/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/kostiadubohrii/kostiadubohrii_react.github.io.git/react_mid-lvl/marvel-app/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2daa3d5.js",
+    "static/js/2.7c13adfa.chunk.js",
+    "static/css/main.e5f31e3a.chunk.css",
+    "static/js/main.9517119f.chunk.js"
+  ]
+}
