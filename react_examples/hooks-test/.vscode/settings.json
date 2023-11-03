@@ -1,0 +1,9 @@
+{
+    "editor.cursorSmoothCaretAnimation": "off",
+    "editor.cursorStyle": "line",
+    "editor.fontSize": 14,
+    "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.letterSpacing": 1,
+    "terminal.integrated.lineHeight": 1
+}
