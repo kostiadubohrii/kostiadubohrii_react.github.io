@@ -6,7 +6,6 @@ import ErrorMessage from '../errorMessage/ErrorMessage';
 import useMarvelService from '../../services/MarvelServices';
 
 import './comicsList.scss';
-import CharList from '../charList/CharList';
 
 const setContent = (process, Component, newItemLoading) => {
     switch (process) {
